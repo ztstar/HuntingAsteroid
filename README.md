@@ -38,10 +38,6 @@ We implement fine-tuning techniques to the classification task. This is how we b
 Up to now, we achieved a best accuracy of 92.24% and recall of 91.25% when fine-tuning ResNet50. We are now improving the performance of our model.
 
 
-## How to contribute
-
-If you like our idea, please feel free to star or fork our repository and send pull requests. You may also contact the author by sending emails to changsun@diroot.org
-
 ## References
 
 1. Sandor Kruk et al. Hubble Asteroid Hunter: I. Identifying asteroid trails in Hubble Space Telescope images. Astronomy & Astrophysics, 661:A85, May 2022.
