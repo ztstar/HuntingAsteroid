@@ -1,6 +1,6 @@
 ## Description
 
-We propose implementing deep learning in the detection process of asteroids. Using data gathered from Hubble Space Telescope archive, we generate a dataset with around 3000 pictures. Then we tine-tune a pretrained model (previously trained on ImageNet) and design an automatic processing pipeline for the data.
+We propose implementing deep learning in the detection process of asteroids. Using data gathered from Hubble Space Telescope archive, we generate a dataset with around 3000 pictures. Then we fine-tune a pretrained model (previously trained on ImageNet) and design an automatic processing pipeline for the data.
 
 
 ## Prerequisites
